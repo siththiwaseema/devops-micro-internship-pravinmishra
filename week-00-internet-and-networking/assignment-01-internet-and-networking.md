@@ -34,7 +34,9 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned chatgpt responces only based on how we prompt, so if we couldnt prompt the way we want its never answer correctly.
+here i learned what is a protocol in simple way with a real life explanation.
+initially, i got a long responces since i mentioned beginer friendly, so chatgpt respond with all the possible scenarios, but then i ask for the short explanation and one scenario i got a answer with simple explanation.
 
 ---
 
@@ -59,8 +61,15 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user in the USA visits the EpicReads website hosted in finland, user enter the website address in their browser.The browser uses the website's IP address to find he correct server in Finland.
 
+The request is sent over the internet using the TCP/IP protocol, which ensures the data is delivered correctly and in the right order.The data is divided into small pieced called packets through packet switching.
+
+These packets may travel along different routes but are reassembled when they reach the user's device.
+
+The browser commmunicated with the server using HTTP or HTTPS.
+
+with HTTPS providing a secure, encrypted connection.Finally, the server sends the webpage back to the user, allowing them to view the EpicReads website.
 ---
 
 # 🏗️ Task 3: Application Architecture & Stack
@@ -102,18 +111,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML/CSS/JS
+* React.js
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Python (Django or Flask)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySql
+* MongoDB
 
 ---
 
@@ -142,8 +151,13 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS is similar to phonebook which record and translate address to numeric value.
+example: epicreads.com to 52.172.142.222.3000
+so browser can easily find the right server accordingly.
 
+To connect epicreads.com to 25.172.142.222 we should use an address record.
+because, an address record connects to a domain name to an IPV4 address.
+an address record is the appropiate choice.The port 3000 is configured on the server and is not part of the DNS record.
 ---
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
