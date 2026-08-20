@@ -130,7 +130,7 @@ Week 01 → Success Mindset
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics|✅ Completed|✅ Completed|ww.linkedin.com/posts/activity-7488966889117806592-Yd8v?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io| - |
+| 00 | Internet & Networking Basics|✅ Completed|✅ Completed|www.linkedin.com/posts/activity-7488966889117806592-Yd8v?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io| - |
 | 01 | Success Mindset |✅ Completed|✅ Completed| https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearning-discipline-share-7491017760043606016-qMMj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/objective-truths-i-discovered-through-my-own-experience-fe69abd57928|
 | 02 | Agentic AI with Claude Code | 🔄 In Progress |⬜ Not Started|⬜ Not Started|
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
