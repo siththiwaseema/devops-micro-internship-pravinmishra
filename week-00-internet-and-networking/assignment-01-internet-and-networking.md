@@ -10,7 +10,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 You're new to DevOps and will frequently encounter technical questions. ChatGPT can be your learning companion.
 
-## Your Task
+##  Task
 
 Write a clear ChatGPT prompt to help you understand:
 
@@ -48,7 +48,7 @@ Your friend is launching an online bookstore named **EpicReads**.
 
 He asked you to explain how users globally can access his website hosted in Finland.
 
-## Your Task
+## Task
 
 Write a short explanation (**100–150 words**) that includes:
 
@@ -89,7 +89,7 @@ EpicReads bookstore has two application versions:
 * Backend
 * Database
 
-## Your Task
+## Task
 
 * Draw simple diagrams (hand-drawn or tool-based such as draw.io)
 * Label each layer clearly
@@ -101,7 +101,7 @@ EpicReads bookstore has two application versions:
 Save your diagram image in the `screenshots` folder and update the file name below.
 
 
-![Task 1 Screenshot](screenshots\task-3-diagram.png.jpeg)
+![Task 1 Screenshot](screenshots\task-3-diagram.png)
 
 
 
@@ -142,9 +142,8 @@ He purchased the domain:
 epicreads.com
 ```
 
-## Your Task
+##  Task
 
-In **50–100 words**, explain in your own words:
 
 1. What is DNS (Domain Name System)?
 2. Which DNS record type should be used to connect the domain to the given IP, and why?
@@ -162,7 +161,7 @@ an address record is the appropiate choice.The port 3000 is configured on the se
 
 # 💻 Task 5: Visual Studio Code Setup (Hands-on)
 
-## Your Task
+## Task
 
 Install Visual Studio Code (if not already installed).
 
