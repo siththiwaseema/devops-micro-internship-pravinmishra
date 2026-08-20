@@ -20,7 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-![alt text](1.png)
+![Week 02 – agentic-ai](screenshots\Assignment 02\1.png)
 
 ---
 
@@ -34,8 +34,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-![alt text](2.png)
-
+![Week 02 – agentic-ai](screenshots\Assignment 02\2.png)
 ---
 
 # Task 3 — Customize the CLAUDE.md
@@ -48,9 +47,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-![alt text](3.1.png)
-![alt text](3.2.png)
-
+![Week 02 – agentic-ai](screenshots\Assignment 02\3.1.png)
+![Week 02 – agentic-ai](screenshots\Assignment 02\3.2.png)
 ---
 
 # Task 4 — Test the After State
@@ -63,13 +61,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-![alt text](4.png)
+![Week 02 – agentic-ai](screenshots\Assignment 02\4.png)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-![alt text](4.1.png)
+![Week 02 – agentic-ai](screenshots\Assignment 02\4.1.png)
 
 
 ---
@@ -84,7 +82,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-![alt text](5.png)
+![Week 02 – agentic-ai](screenshots\Assignment 02\5.png)
 
 ---
 

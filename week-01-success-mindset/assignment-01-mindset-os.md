@@ -43,11 +43,6 @@ Most people believe hard work guarantees success, but I think strategic work bea
 
 Objective truths do not depend on opinions. They hold true regardless of how people feel.
 
-Write each truth in this format:
-
-**Truth:** (1 sentence)
-
-**Evidence from my life:** (2–4 lines: what you tried + what happened)
 
 ---
 
