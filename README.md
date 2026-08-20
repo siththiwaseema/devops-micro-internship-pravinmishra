@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | SiththiWaseema  
-| **LinkedIn** | [pravin-mishra-aws-trainer]https://www.linkedin.com/in/siththi-waseema-62a0b0187/ |
+| **LinkedIn** | https://www.linkedin.com/in/siththi-waseema-62a0b0187/ |
 | **Location** | Colombo,Sri Lanka | 
 | **Background** | Agentic AI Devops Engineer
 | **Goal** | Technical problem solver | 
