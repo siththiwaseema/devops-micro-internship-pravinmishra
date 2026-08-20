@@ -100,10 +100,10 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+
+![Task 1 Screenshot](screenshots\task-3-diagram.png.jpeg)
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -192,7 +192,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![Task 5 Screenshot](screenshots/task-5-vscode.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -231,9 +231,8 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-learninginpublic-networking-ugcPost-7488966886051692544-azgc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
+
 
 ---
 
@@ -241,7 +240,40 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+Back to the fundamentals – Self-Paced DevOps Learning
+Week -00
+After completing the DevOps Micro Internship (DMI) Cohort, I was excited to get another opportunity to continue learning through the self-paced DevOps program. Going back to the basics has reminded me that a strong foundation is just as important as learning advanced tools.
+
+Here are a few concepts I learned and revised this week:
+
+🌐 What is a Network Protocol?
+A protocol is a set of rules that allows devices to communicate with each other over a network.
+
+📞 Simple example: Just like people follow basic rules during a phone call, computers also follow protocols so they can exchange information correctly.
+
+🌍 How does a website hosted in another country work?
+
+If a website is hosted in Finland, someone in the USA can still access it because:
+
+DNS converts the website name into an IP address.
+TCP/IP delivers the data between the user and the server.
+Packet Switching splits the data into small packets that travel across the internet and are reassembled at the destination.
+HTTP/HTTPS is used to request and securely receive the website.
+
+🏗️ Application Architecture
+I also revised the difference between the following:
+Two-Tier Architecture → Frontend ↔ Database
+Three-Tier Architecture → Frontend ↔ Backend ↔ Database
+Adding a backend layer makes applications more secure, scalable, and easier to maintain.
+
+🌍 DNS Basics
+DNS (Domain Name System) works like the internet's phonebook by converting domain names into IP addresses.
+To connect a domain such as epicreads.com to an IPv4 address, we use an A Record, which maps the domain name to the server's IP address.
+Sometimes revisiting the basics is the best way to build confidence before moving on to more advanced DevOps topics. Looking forward to the next lessons and continuing to learn step by step. 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. 
+
+My graded progress is public: https://lnkd.in/gshacqei · Start your DevOps journey: https://lnkd.in/gT_4qV-r
 
 ---
 
@@ -249,19 +281,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+since i did this in chort 2, also using chatgpt actually again easily i understand the concept.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+i find difficult in dns type, which i learned today..i was not aware aboyt the types and address record etc..
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+While watching the video will more consider the basic concepts as well.
 
 ---
 

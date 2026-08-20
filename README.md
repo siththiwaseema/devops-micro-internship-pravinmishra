@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | SiththiWaseema  
+| **LinkedIn** | [pravin-mishra-aws-trainer]https://www.linkedin.com/in/siththi-waseema-62a0b0187/ |
+| **Location** | Colombo,Sri Lanka | 
+| **Background** | Agentic AI Devops Engineer
+| **Goal** | Technical problem solver | 
 
 ---
 
@@ -57,7 +57,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 *Earn a badge each week. To unlock: remove the `<!--` and `-->` from the badge line below.*
 
-*Share your stack:* `https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra#my-devops-stack`
+*Share your stack:* `https://github.com/siththiwaseem/internship-pravinmishra#my-devops-stack`
 
 **Preview — what your full stack looks like:**
 
@@ -67,11 +67,11 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+Week 00 → Internet & Networking Basics
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset 
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -109,7 +109,7 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
+
 
 ---
 
@@ -130,9 +130,10 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics|✅ Completed|✅ Completed|ww.linkedin.com/posts/activity-7488966889117806592-Yd8v?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io|
+| 01 | Success Mindset |✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearning-discipline-share-7491017760043606016-qMMj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
+| https://medium.com/@wassimasiththy/objective-truths-i-discovered-through-my-own-experience-fe69abd57928|
+| 02 | Agentic AI with Claude Code | 🔄 In Progress |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
