@@ -128,7 +128,7 @@ Include this line:
 
 > **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
-## Your Article
+##  Article
 
 From Banking to MLOps: How This Engineer Built an Infrastructure Empire
 
@@ -163,10 +163,12 @@ P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — 
 
 ### Public Link
 
-`Add your URL here`
+
 Linkedin : 
 
 https://www.linkedin.com/posts/activity-7488966889117806592-Yd8v?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
+
+Medium blog : 
 
 https://medium.com/@wassimasiththy/from-banking-to-mlops-how-this-engineer-built-an-infrastructure-empire-0f1b6f6fb046?sharedUserId=wassimasiththy)
 
