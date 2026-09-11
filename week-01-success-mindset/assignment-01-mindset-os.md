@@ -537,7 +537,7 @@ P.S. This post is part of my self-paced learning journey after completing the De
 
 #DevOps #SelfPacedLearning #Discipline #Learning #CareerTransition #MLOps #FocusMatters
 
-`Add your URL here`
+
 
 https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearning-discipline-share-7491017760043606016-qMMj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
 
@@ -545,7 +545,7 @@ https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearnin
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL:[](https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearning-discipline-share-7491017760043606016-qMMj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io) 
+- LinkedIn Post URL:(https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearning-discipline-share-7491017760043606016-qMMj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io) 
 - Blog / Medium : https://medium.com/@wassimasiththy/from-banking-to-mlops-how-this-engineer-built-an-infrastructure-empire-0f1b6f6fb046?sharedUserId=wassimasiththy
  
 
