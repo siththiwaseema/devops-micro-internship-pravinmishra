@@ -21,6 +21,7 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
 ![Week 02 – agentic-ai](screenshots\Screenshot 01.png)
+
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
