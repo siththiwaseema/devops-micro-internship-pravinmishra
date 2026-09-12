@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots\Assignment 05\1.png)
 
 ---
 
@@ -34,33 +34,34 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+The cost optimizer uses Haiku instead of Sonnet because cost analysis is straightforward calculation-based work that doesn't require deep reasoning. 
+Haiku is 10x cheaper and 2x faster, making it perfect for quick cost checks that deliver immediate feedback. Haiku can easily compare instance sizes, calculate monthly costs, and recommend savings without the overhead and expense of Sonnet's deeper reasoning capabilities.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor does NOT have Write in its tools list because its job is to REVIEW and ANALYZE infrastructure, not modify it. By restricting access to only Read and Grep, we prevent the agent from accidentally (or maliciously) modifying or deleting Terraform files. This follows the Principle of Least Privilege — the agent can never corrupt  infrastructure, even if it has a bug. The read-only restriction builds trust and ensures the auditor remains impartial.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
-
+The tf-writer uses "inherit" instead of a specific model because code 
+generation requirements depend on the complexity of the task and current session capabilities. Using "inherit" allows the agent to adapt to whatever model is running in your Claude session — if you need complex infrastructure, can run Sonnet; for simpler code, a faster model works fine. This flexibility means one agent works optimally across different scenarios without being locked to a single model choice.
 ---
 
 ### Evidence
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots\Assignment 05\2.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots\Assignment 05\3.png)
 
 ---
 
@@ -74,13 +75,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots\Assignment 05\4.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots\Assignment 05\5.png)
 
 ---
 
@@ -94,7 +95,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots\Assignment 05\6.png)
 
 ---
 
@@ -108,9 +109,9 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/siththiwaseema/devops-micro-internship-pravinmishra/tree/main
 
-`Add your URL here`
+
 
 ---
 
