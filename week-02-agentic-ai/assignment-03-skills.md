@@ -74,7 +74,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots\Assignment 03\6.png)
 
 ---
 
@@ -88,15 +88,16 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/siththiwaseema/devops-micro-internship-pravinmishra
+
 
 ## LinkedIn post URL
 
-Paste your forked repository URL here:
+https://lnkd.in/p/gEWJMATN
 
-`Add your URL here`
+![Week 02 – agentic-ai](screenshots\Assignment 03\7.png)
+
 ---
 
 # Completion Checklist
