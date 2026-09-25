@@ -20,8 +20,7 @@ Discover exactly where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-![Week 02 – agentic-ai](screenshots\Assignment 08\1.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2007/1.png)
 ---
 
 # Task 2 — Give Claude Information to Remember
@@ -34,13 +33,12 @@ Teach Claude three specific facts about the project and instruct it to save them
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-![Week 02 – agentic-ai](screenshots\Assignment 08\2.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2007/2.png)
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-![Week 02 – agentic-ai](screenshots\Assignment 08\3.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2007/3.png)
 ---
 
 # Task 3 — Close the Session Completely
@@ -53,8 +51,7 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-![Week 02 – agentic-ai](screenshots\Assignment 08\4.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2007/4.png)
 ---
 
 # Task 4 — Prove Memory Recall Across Sessions
@@ -67,14 +64,12 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-![Week 02 – agentic-ai](screenshots\Assignment 08\5.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2007/5.png)
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-![Week 02 – agentic-ai](screenshots\Assignment 08\6.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2007/6.png)
 ---
 
 # Submission Instructions
@@ -89,15 +84,11 @@ Run three tests that prove Claude remembers what you told it — without you say
 ## Linkedin Post Link
 
 https://lnkd.in/p/g6iiVACF
-
-
 ---
 
 ## GitHub Repository URL
 
 https://github.com/siththiwaseema/devops-micro-internship-pravinmishra.git
-
-
 ---
 
 # Completion Checklist
