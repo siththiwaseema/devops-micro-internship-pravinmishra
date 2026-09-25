@@ -98,6 +98,11 @@ https://lnkd.in/p/gEWJMATN
 
 ![Week 02 – agentic-ai](screenshots\Assignment 03\7.png)
 
+<<<<<<< HEAD
+=======
+`Add your URL here`
+
+>>>>>>> upstream/main
 ---
 
 # Completion Checklist

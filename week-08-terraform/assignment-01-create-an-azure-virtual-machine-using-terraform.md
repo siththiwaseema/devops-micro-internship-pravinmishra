@@ -1,6 +1,6 @@
 # Assignment 1 — Create an Azure Virtual Machine using Terraform
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -94,6 +94,10 @@ Add your screenshot here.
 
 Add your screenshot here.
 
+### Question
+
+VM Public IP Address: [Enter the public IP shown by terraform output]
+
 ---
 
 # Task 4 — Verify the Deployment
@@ -174,4 +178,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

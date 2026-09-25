@@ -1,6 +1,6 @@
 # Assignment 1 — Your First Agentic Session
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -20,13 +20,14 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-![Week 02 – agentic-ai](screenshots\Screenshot 01.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2001/Screenshot%2001.png)
+
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
 
-![Week 02 – agentic-ai](screenshots\screenshot 02.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2001/screenshot%2002.png)
 
 ---
 
@@ -40,7 +41,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-![Week 02 – agentic-ai](screenshots\Screenshot 03.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2001/Screenshot%2003.png)
 
 ---
 
@@ -54,15 +55,31 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-![Week 02 – agentic-ai](screenshots\Screenshot 04.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2001/Screenshot%2004.png)
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-![Week 02 – agentic-ai](screenshots\Screenshot 5.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2001/Screenshot%205.png)
 
 ---
+
+# Task 4 — Share Your First Agentic AI Achievement
+
+## Goal
+
+Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn.
+
+### Evidence
+
+#### Screenshot 6 — Published LinkedIn post showing the caption and shared DMI Leaderboard progress
+
+![Week 02 – agentic-ai](screenshots/Assignment%2001/6.png)
+
+
+---
+
 
 # Submission Instructions
 
@@ -111,4 +128,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*
