@@ -20,8 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-![Week 02 – agentic-ai](screenshots\Assignment 02\1.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2002/1.png)
 ---
 
 # Task 2 — Generate the First Draft with /init
@@ -34,7 +33,7 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-![Week 02 – agentic-ai](screenshots\Assignment 02\2.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2002/2.png)
 ---
 
 # Task 3 — Customize the CLAUDE.md
@@ -47,8 +46,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-![Week 02 – agentic-ai](screenshots\Assignment 02\3.1.png)
-![Week 02 – agentic-ai](screenshots\Assignment 02\3.2.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2002/3.1.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2002/3.2.png)
 ---
 
 # Task 4 — Test the After State
@@ -61,15 +60,12 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-![Week 02 – agentic-ai](screenshots\Assignment 02\4.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2002/4.png)
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-![Week 02 – agentic-ai](screenshots\Assignment 02\4.1.png)
-
-
+![Week 02 – agentic-ai](screenshots/Assignment%2002/4.1.png)
 ---
 
 # Task 5 — Commit and push your changes to your fork in GitHub
@@ -82,7 +78,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-![Week 02 – agentic-ai](screenshots\Assignment 02\5.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2002/5.png)
 
 ---
 
@@ -96,8 +92,7 @@ Celebrate your progress and share your DMI Leaderboard achievement on WhatsApp.
 
 #### Screenshot 7 — Your shared WhatsApp Status or community message showing the automatically generated leaderboard rank and personal progress link
 
-Add your screenshot here.
-
+N/A
 ---
 
 # Submission Instructions
