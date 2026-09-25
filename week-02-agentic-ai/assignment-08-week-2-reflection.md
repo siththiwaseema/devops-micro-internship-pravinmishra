@@ -46,16 +46,14 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
-
+![Week 02 – agentic-ai](screenshots/Assignment%2008/1.png)
 ---
 
 ### Submission Field
 
-Blog Link:
+Blog Link: 
 
-`Add your URL here`
-
+https://medium.com/@wassimasiththy/why-hooks-and-permissions-are-important-for-safety-771c50230df3?sharedUserId=wassimasiththy
 ---
 
 # Task 2 — Create LinkedIn Post
@@ -64,30 +62,81 @@ Blog Link:
 
 Share your Week 2 learning publicly on LinkedIn.
 
+
 ---
 
 ### Evidence
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
-
+![Week 02 – agentic-ai](screenshots/Assignment%2008/2.png)
 ---
 
 ### Submission Field
 
-LinkedIn Post Content (copy-paste here):
+LinkedIn Post Content :
 
-```
-Paste your LinkedIn post content here
-```
+Why Hooks and Permissions Are Important for Safety
 
+I learned how Claude works behind the scenes. Claude does not just know what I want. It needs some files to do the job the way I want. Each file has its own purpose.
+
+CLAUDE.md is the rulebook of the project. I write the main rules here, like which tools we use and what Claude should never do. Claude reads this file every time it starts, so it always follows the same rules.
+
+MEMORY.md is where Claude saves important facts. When I tell Claude something once, it keeps it here. In a new session, Claude still remembers it, so I don’t have to repeat myself.
+
+Skills are saved instructions that turn into slash commands. Instead of writing a long prompt again and again, I write it once in a skill file and run it with one short command like /infra-audit.
+
+Hooks are automatic actions. They run at a fixed moment, for example before Claude runs a command or after it changes a file. I don’t need to remember to do them. They happen on their own.
+
+All these files help Claude do the work. But while learning them, one question stayed in my mind: what stops Claude from doing something wrong? That is where hooks and permissions come in.
+
+Claude is not just talking anymore
+In a normal chat, Claude only gives answers. If the answer is wrong, nothing breaks. I just ignore it.
+
+Claude Code is different. It can run real commands on my computer. It can create files, delete files, and even change things in my AWS account. That is what makes it powerful. But it also means one wrong command can cause real damage.
+
+For example, a command like rm -rf can delete a whole folder. A command like terraform destroy can remove my live website from AWS. These mistakes are not easy to undo.
+
+So the question is not only “Can Claude do this job?” The question is also “What should Claude be allowed to do?”
+
+Permissions: deciding what Claude can do
+Permissions are like giving keys to someone. You don’t give every key to everyone. You give only the keys they need.
+
+In Claude Code, I can decide which actions are allowed, which ones are blocked, and which ones need my approval first.
+
+A simple example from this week: an agent that only checks a Terraform plan does not need Write access. Its job is to read and report. If it cannot write, it cannot change or delete anything, even by mistake.
+
+Think of a bank. The person who checks your balance does not need the key to the safe. Less access means less risk.
+
+Hooks: an automatic safety guard
+Permissions set the rules. Hooks help check them at the right moment.
+
+A hook can run before Claude does something. It looks at the command and stops it if it looks dangerous. For example, a hook can block any command that tries to read or change the .env file, where secrets are kept.
+
+A hook can also run after Claude does something. For example, after Claude edits a Terraform file, a hook can automatically format it or check it for errors.
+
+The best part is that hooks don’t depend on anyone remembering. Even if I forget, or Claude forgets, the hook still runs.
+
+It is like a security guard at a building gate. The guard checks everyone, every time, without being told.
+
+Why this matters in DevOps
+In DevOps, we work with real systems: servers, websites, databases, cloud accounts. Mistakes here can mean downtime, lost data, or a big AWS bill.
+
+Using AI in this work saves a lot of time. But speed without control is dangerous. Hooks and permissions give that control. They let Claude do the repeated work, while I still decide the limits.
+
+What I learned
+CLAUDE.md tells Claude the rules. MEMORY.md helps it remember. Skills save time. But hooks and permissions are what make it safe to use Claude on real projects.
+
+Giving AI power is easy. Giving it the right amount of power, with clear limits, is what real engineering looks like.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/siththiwaseema.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=self-paced
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
-
+link: https://lnkd.in/p/g2SnCH4u
 ---
 
 # Submission Instructions
