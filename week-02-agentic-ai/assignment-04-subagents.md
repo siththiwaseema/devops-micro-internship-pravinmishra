@@ -57,7 +57,7 @@ generation requirements depend on the complexity of the task and current session
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-![Week 02 – agentic-ai](screenshots/Assignment%2004/3.1.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2004/3.png)
 ---
 
 # Task 3 — Run the Security Auditor
@@ -68,16 +68,16 @@ Trigger the security auditor agent and analyze the generated security report for
 
 ### Evidence
 
-![Week 02 – agentic-ai](screenshots/Assignment%2004/3.2.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2004/4.png)
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-![Week 02 – agentic-ai](screenshots/Assignment%2004/4.png)
+
 ---
 
 #### Screenshot 5 — Security audit report output
 
-![Week 02 – agentic-ai](screenshots/Assignment%2004/4.1.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2004/5.png)
 ---
 
 # Task 4 — Run the Cost Optimizer
@@ -87,11 +87,11 @@ Trigger the security auditor agent and analyze the generated security report for
 Trigger the cost optimizer agent and review the generated cost optimization report.
 
 ### Evidence
+![Week 02 – agentic-ai](screenshots/Assignment%2004/6.png)
 
 #### Screenshot 6 — The full cost optimization report
 
-![Week 02 – agentic-ai](screenshots/Assignment%2004/5.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2004/6.png)
 ---
 
 # Task 5 — Share Your AI Team Achievement on LinkedIn
@@ -116,7 +116,6 @@ Make sure your published post includes:
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
 
 ![Week 02 – agentic-ai](screenshots/Assignment%2004/7.png)
-
 ---
 
 # Submission Instructions
@@ -130,9 +129,6 @@ Make sure your published post includes:
 ## GitHub Repository URL
 
 https://github.com/siththiwaseema/devops-micro-internship-pravinmishra/tree/main
-
-
-
 ---
 
 # Completion Checklist
