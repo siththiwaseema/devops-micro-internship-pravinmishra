@@ -20,8 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-![Week 02 – agentic-ai](screenshots\Assignment 05\1.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2004/1.png)
 ---
 
 # Task 2 — Compare the Agent Configurations
@@ -36,13 +35,11 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 The cost optimizer uses Haiku instead of Sonnet because cost analysis is straightforward calculation-based work that doesn't require deep reasoning. 
 Haiku is 10x cheaper and 2x faster, making it perfect for quick cost checks that deliver immediate feedback. Haiku can easily compare instance sizes, calculate monthly costs, and recommend savings without the overhead and expense of Sonnet's deeper reasoning capabilities.
-
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
 The security auditor does NOT have Write in its tools list because its job is to REVIEW and ANALYZE infrastructure, not modify it. By restricting access to only Read and Grep, we prevent the agent from accidentally (or maliciously) modifying or deleting Terraform files. This follows the Principle of Least Privilege — the agent can never corrupt  infrastructure, even if it has a bug. The read-only restriction builds trust and ensures the auditor remains impartial.
-
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
@@ -55,14 +52,12 @@ generation requirements depend on the complexity of the task and current session
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-![Week 02 – agentic-ai](screenshots\Assignment 05\2.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2004/2.png)
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-![Week 02 – agentic-ai](screenshots\Assignment 05\3.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2004/3.1.png)
 ---
 
 # Task 3 — Run the Security Auditor
@@ -73,16 +68,16 @@ Trigger the security auditor agent and analyze the generated security report for
 
 ### Evidence
 
+![Week 02 – agentic-ai](screenshots/Assignment%2004/3.2.png)
+
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-![Week 02 – agentic-ai](screenshots\Assignment 05\4.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2004/4.png)
 ---
 
 #### Screenshot 5 — Security audit report output
 
-![Week 02 – agentic-ai](screenshots\Assignment 05\5.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2004/4.1.png)
 ---
 
 # Task 4 — Run the Cost Optimizer
@@ -95,7 +90,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-![Week 02 – agentic-ai](screenshots\Assignment 05\6.png)
+![Week 02 – agentic-ai](screenshots/Assignment%2004/5.png)
 
 ---
 
@@ -120,7 +115,7 @@ Make sure your published post includes:
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
 
-Add your screenshot here.
+![Week 02 – agentic-ai](screenshots/Assignment%2004/7.png)
 
 ---
 
