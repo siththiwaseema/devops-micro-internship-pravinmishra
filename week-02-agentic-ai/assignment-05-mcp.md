@@ -20,8 +20,7 @@ Generate a GitHub Personal Access Token (PAT) that will be used for MCP authenti
 
 #### Screenshot 1 — GitHub token creation page showing the selected scopes (`repo`, `read:user`) — token value must NOT be visible
 
-![Week 02 – agentic-ai](screenshots\Assignment 06\1.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2005/1.png)
 ---
 
 # Task 2 — Create .mcp.json at the Project Root
@@ -34,8 +33,7 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
 
-![Week 02 – agentic-ai](screenshots\Assignment 06\2.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2005/2.png)
 ---
 
 # Task 3 — Add Your Token to settings.local.json
@@ -46,10 +44,9 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 ### Evidence
 
-#### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
+#### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — 
 
-![Week 02 – agentic-ai](screenshots\Assignment 06\3.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2005/3.png)
 ---
 
 # Task 4 — Verify the Connection with /mcp
@@ -62,8 +59,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 #### Screenshot 4 — `/mcp` output showing `github: connected`
 
-![Week 02 – agentic-ai](screenshots\Assignment 06\4.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2005/4.png)
 ---
 
 # Task 5 — Run a Live GitHub Query
@@ -76,8 +72,7 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-![Week 02 – agentic-ai](screenshots\Assignment 06\5.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2005/5.png)
 ---
 
 # Task 6 — Share Your MCP Achievement
@@ -90,8 +85,7 @@ Share your MCP achievement on Facebook or WhatsApp Status and provide evidence o
 
 #### Screenshot 6 — Published Facebook post or WhatsApp Status showing your MCP achievement message and leaderboard progress link visible
 
-Add your screenshot here.
-
+N/A
 ---
 
 # Submission Instructions
