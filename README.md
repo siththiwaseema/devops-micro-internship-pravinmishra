@@ -79,7 +79,7 @@ Week 02 → Agentic AI with Claude Code
 Week 03 → Linux & Bash for DevOps
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
-Week 04 → Git & GitHub
+<!-- Week 04 → Git & GitHub
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
@@ -132,8 +132,8 @@ Week 04 → Git & GitHub
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics|✅ Completed|✅ Completed|www.linkedin.com/posts/activity-7488966889117806592-Yd8v?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io| - |
 | 01 | Success Mindset |✅ Completed|✅ Completed| https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearning-discipline-share-7491017760043606016-qMMj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/objective-truths-i-discovered-through-my-own-experience-fe69abd57928|
-| 02 | Agentic AI with Claude Code | 🔄 In Progress |⬜ Not Started|⬜ Not Started|
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://lnkd.in/p/g2SnCH4u | https://medium.com/@wassimasiththy/why-hooks-and-permissions-are-important-for-safety-771c50230df3?sharedUserId=wassimasiththy
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Completed | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
