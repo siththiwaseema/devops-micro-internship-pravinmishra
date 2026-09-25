@@ -20,8 +20,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-![Week 02 – agentic-ai](screenshots\Assignment 03\1.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2003/1.png)
 ---
 
 # Task 2 — Add the Skill Files
@@ -34,14 +33,12 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-![Week 02 – agentic-ai](screenshots\Assignment 03\2.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2003/2.png)
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-![Week 02 – agentic-ai](screenshots\Assignment 03\3.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2003/3.png)
 ---
 
 # Task 3 — Run /scaffold-terraform
@@ -54,14 +51,12 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-![Week 02 – agentic-ai](screenshots\Assignment 03\4.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2003/4.png)
 ---
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-![Week 02 – agentic-ai](screenshots\Assignment 03\5.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2003/5.png)
 ---
 
 # Task 4 — Run terraform init and /tf-plan
@@ -74,8 +69,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-![Week 02 – agentic-ai](screenshots\Assignment 03\6.png)
-
+![Week 02 – agentic-ai](screenshots/Assignment%2003/6.png)
 ---
 
 # Submission Instructions
@@ -83,11 +77,9 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 - Ensure `.claude/skills/` folder and all skill files are committed to your GitHub repository
 - Run all commands successfully and capture required screenshots
 - Push final changes to your forked repository
-
 ---
 
 ## GitHub Repository URL
-
 
 https://github.com/siththiwaseema/devops-micro-internship-pravinmishra
 
@@ -96,13 +88,7 @@ https://github.com/siththiwaseema/devops-micro-internship-pravinmishra
 
 https://lnkd.in/p/gEWJMATN
 
-![Week 02 – agentic-ai](screenshots\Assignment 03\7.png)
-
-<<<<<<< HEAD
-=======
-`Add your URL here`
-
->>>>>>> upstream/main
+![Week 02 – agentic-ai](screenshots/Assignment%2003/7.png)
 ---
 
 # Completion Checklist
