@@ -20,19 +20,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-AWS account is  personal space in Amazon's cloud. It links login, billing details and every resource creating, such as servers, storage and databases. need one now because every later hands-on task happens inside it. It is also where control security and costs.
+AWS account is  personal space in Amazon's cloud. It links login, billing details and every resource creating, such as servers, storage and databases. need one now because every later hands-on task happens inside it. It is also control security and costs.
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
-
+AWS Free Tier lets new users try AWS services without paying. Since July 2025, new customers can choose a Free plan that lasts up to six months or until its credits run out, whichever comes first. AWS gives $100 in credits at signup, and can earn up to $100 more through activities, for a total of $200. Separately, over 30 services have under free subcription offers, which can use free up to set limits for as long as are an AWS customer. 12-month free subcription for EC2, RDS and S3 only apply to accounts created before July 15, 2025.
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazon S3: 5 GB of S3 Standard storage, 20,000 GET requests and 2,000 PUT, COPY, POST or LIST requests per month. S3 is AWS's object storage service, used to store files such as images, videos, backups and website content in containers called buckets.
 
+Amazon DynamoDB (NoSQL database): 25 GB of storage, plus enough read/write capacity for small apps.
+
+Amazon EC2: 750 hours per month of a t2.micro or t3.micro instance
 ---
 
 # Task 2 — Create AWS Free Tier Account
@@ -42,7 +44,6 @@ Write your answer here.
 Create a valid AWS Free Tier account and sign in to the AWS Management Console.
 
 > No screenshots required for this task. Completion is verified through Task 3.
-
 ---
 
 # Task 3 — Verify AWS Account
@@ -55,8 +56,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
-
+![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2001/1.png)
 ---
 
 # Task 4 — Share Your AWS Cloud Onboarding Progress
@@ -69,8 +69,7 @@ Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence
 
 ### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
 
-Add your screenshot here.
-
+![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2001/2.jpeg)
 ---
 
 # Submission Instructions
