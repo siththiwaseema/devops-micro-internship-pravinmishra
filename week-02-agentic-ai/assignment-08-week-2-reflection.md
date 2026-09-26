@@ -136,7 +136,7 @@ P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced E
 
 ### LinkedIn Post Link:
 
-link: https://lnkd.in/p/g2SnCH4u
+link: https://www.linkedin.com/posts/siththi-waseema-62a0b0187_1a1a2e-16213e-dmibypravinmishra-ugcPost-7509176782521106432-2Cmj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
 ---
 
 # Submission Instructions
