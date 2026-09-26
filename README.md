@@ -133,7 +133,7 @@ Week 03 → Linux & Bash for DevOps
 | 00 | Internet & Networking Basics|✅ Completed|✅ Completed|www.linkedin.com/posts/activity-7488966889117806592-Yd8v?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io| - |
 | 01 | Success Mindset |✅ Completed|✅ Completed| https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-selfpacedlearning-discipline-share-7491017760043606016-qMMj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/objective-truths-i-discovered-through-my-own-experience-fe69abd57928|
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_1a1a2e-16213e-dmibypravinmishra-ugcPost-7509176782521106432-2Cmj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/why-hooks-and-permissions-are-important-for-safety-771c50230df3?sharedUserId=wassimasiththy
-| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Completed | — | — |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-siththiwaseema-devops-share-7509722011431223296-Td46/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/linux-article-1-6fa25ae0c199 |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
