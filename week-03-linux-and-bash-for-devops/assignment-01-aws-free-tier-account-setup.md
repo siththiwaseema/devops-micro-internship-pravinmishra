@@ -20,8 +20,7 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
-
+AWS account is  personal space in Amazon's cloud. It links login, billing details and every resource creating, such as servers, storage and databases. need one now because every later hands-on task happens inside it. It is also where control security and costs.
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
