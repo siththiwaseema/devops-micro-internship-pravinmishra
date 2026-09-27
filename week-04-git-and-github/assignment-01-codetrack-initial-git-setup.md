@@ -20,22 +20,22 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
 
-Add your screenshot here.
+![Week 04–git-and-github](screenshots/Assignment%2001/1.png)
 
 ---
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-Add your screenshot here.
-
+![Week 04–git-and-github](screenshots/Assignment%2001/2.png)
 ---
 
 ### Notes
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+The .git folder is a hidden folder that Git creates when you run git init. It's where Git keeps everything about the project's history, including all the commits, branches, the staging area and the repository's local settings.
 
+It matters because it's what turns an ordinary folder into a Git repository. Without it, there's no version control at all. If you delete it, you lose the entire history, even though your current files stay put. It's hidden because you're not meant to edit it by hand; Git manages it for ourself.
 ---
 
 # Task 2 — Configure Git Identity Locally (Repository-Only)
@@ -48,7 +48,7 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+![Week 04–git-and-github](screenshots/Assignment%2001/3.png)
 
 ---
 
@@ -62,8 +62,7 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
-
+![Week 04–git-and-github](screenshots/Assignment%2001/4.png)
 ---
 
 # Task 4 — Share Your Git Setup Progress
@@ -76,8 +75,7 @@ Share your Git setup progress on WhatsApp Status, including your generated DMI l
 
 #### Screenshot 5 — Published WhatsApp Status showing your Git setup message and leaderboard progress link
 
-Add your screenshot here.
-
+![Week 04–git-and-github](screenshots/Assignment%2001/5.png)
 ---
 
 # Submission Instructions

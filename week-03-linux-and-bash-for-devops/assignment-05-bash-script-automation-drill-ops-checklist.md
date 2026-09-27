@@ -20,13 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/1.png)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/2.png)
 
 ---
 
@@ -75,19 +75,19 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/3.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/3.png)
 
 ---
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/4.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/4.png)
 
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/5.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/5.png)
 
 ---
 
@@ -140,13 +140,13 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/6.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/6.png)
 
 ---
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/7.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/7.png)
 
 ---
 
@@ -199,12 +199,12 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/8.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/8.png)
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/9.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/9.png)
 
 ---
 
@@ -264,13 +264,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/10.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/10.png)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/11.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/11.png)
 
 ---
 
@@ -324,19 +324,19 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/12.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/12.png)
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/13.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/13.png)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/14.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/14.png)
 
 ---
 
@@ -399,24 +399,24 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/15.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/15.png)
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/16.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/16.png)
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/17.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/17.png)
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/18.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/18.png)
 
 ---
 
@@ -485,19 +485,19 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/19.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/19.png)
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/20.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/20.png)
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/21.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/21.png)
 
 ---
 
@@ -572,7 +572,7 @@ https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-sitht
 
 #### Screenshot — Published LinkedIn post
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2005/ss.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2005/ss.png)
 
 ---
 

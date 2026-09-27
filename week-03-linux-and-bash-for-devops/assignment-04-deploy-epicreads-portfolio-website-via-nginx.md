@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/0.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/0.png)
 ---
 
 # Task 1 — Get the Website Source Code
@@ -33,7 +33,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/1.png)
 
 ---
 
@@ -47,7 +47,7 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/2.png)
 
 ---
 
@@ -61,13 +61,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/3.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/3.png)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/4.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/4.png)
 
 ---
 
@@ -81,13 +81,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/5.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/5.png)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/6.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/6.png)
 
 ---
 
@@ -101,13 +101,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/7.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/7.png)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/8.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/8.png)
 
 ---
 
@@ -123,7 +123,7 @@ https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-aws-ec2-ugcPost-
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2004/ss.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2004/ss.png)
 
 ---
 

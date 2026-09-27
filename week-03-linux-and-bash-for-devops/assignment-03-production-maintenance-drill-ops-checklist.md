@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/1.png)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/2.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/3.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/3.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/4.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/4.png)
 
 ---
 
@@ -84,19 +84,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/2.1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/2.1.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/2.2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/2.2.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/2.2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/2.2.png)
 
 ---
 
@@ -140,19 +140,19 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/3.1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/3.1.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/3.2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/3.2.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/3.3.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/3.3.png)
 
 ---
 
@@ -204,25 +204,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/4.1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/4.1.png)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/4.2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/4.2.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/4.3.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/4.3.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/4.4.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/4.4.png)
 
 ---
 
@@ -272,19 +272,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/5.1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/5.1.png)
 
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/5.2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/5.2.png)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/5.3.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/5.3.png)
 
 ---
 
@@ -329,19 +329,19 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/6.1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/6.1.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/6.2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/6.2.png)
 
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/6.3.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/6.3.png)
 
 ---
 
@@ -395,13 +395,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/7.1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/7.1.png)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/7.2.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/7.2.png)
 
 ---
 
@@ -540,7 +540,7 @@ https://www.linkedin.com/posts/siththi-waseema-62a0b0187_cloudcomputing-learning
 
 #### Screenshot — Published LinkedIn post
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2003/8.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2003/8.png)
 
 ---
 

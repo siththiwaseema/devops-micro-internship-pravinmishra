@@ -56,7 +56,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2001/1.png)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2001/1.png)
 ---
 
 # Task 4 — Share Your AWS Cloud Onboarding Progress
@@ -69,7 +69,7 @@ Share your AWS cloud onboarding progress on WhatsApp Status and provide evidence
 
 ### Screenshot 2 — Published WhatsApp Status showing your AWS onboarding message and leaderboard progress link visible
 
-![Week 02–linux-and-bash-for-devops](screenshots/Assignment%2001/2.jpeg)
+![Week 03–linux-and-bash-for-devops](screenshots/Assignment%2001/2.jpeg)
 ---
 
 # Submission Instructions
