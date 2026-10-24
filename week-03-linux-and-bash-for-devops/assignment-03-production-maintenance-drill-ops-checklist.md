@@ -44,7 +44,6 @@ Verify that the deployed React application is reachable from the browser and con
 
 ### Notes
 
-Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
@@ -165,7 +164,6 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
 
 No. `/var/log/nginx/error.log` had no errors during my check, and `journalctl -u nginx` only
 showed normal start, stop and restart events with no failures.
