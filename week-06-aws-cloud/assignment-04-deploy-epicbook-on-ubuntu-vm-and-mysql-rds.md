@@ -20,19 +20,21 @@ Create the AWS network for the EpicBook deployment with a public subnet for the 
 
 #### Screenshot 1 — VPC details showing CIDR 10.0.0.0/16
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/1.png)
 
 ---
 
 #### Screenshot 2 — Subnets list showing the public subnet and both private database subnets with their CIDR ranges.
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/2.png)
+
 
 ---
 
 #### Screenshot 3 — Route table showing 0.0.0.0/0 → IGW and association with the public subnet
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/3.png)
+
 
 ---
 
@@ -46,13 +48,14 @@ Create security groups that allow users to access the EpicBook application while
 
 #### Screenshot 4 — EC2 security-group inbound rules showing ports and sources
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/4.png)
+
 
 ---
 
 #### Screenshot 5 — RDS security-group inbound rule showing MySQL 3306 allowed from the EC2 security group
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/5.png)
 
 ---
 
@@ -66,13 +69,13 @@ Launch the EC2 instance that will host the EpicBook application and connect to i
 
 #### Screenshot 6 — EC2 instance summary showing the public IPv4 address, subnet, and security group
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/6.png)
 
 ---
 
 #### Screenshot 7 — Terminal showing a successful SSH login with the `ubuntu@...` prompt
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/7.png)
 
 ---
 
@@ -86,19 +89,20 @@ Prepare Ubuntu to download and run EpicBook, receive HTTP traffic, and connect t
 
 #### Screenshot 8 — Output of `node -v` and `npm -v`
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/8.png)
 
 ---
 
 #### Screenshot 9 — Output of `systemctl status nginx`
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/9.png)
+
 
 ---
 
 #### Screenshot 10 — Output of `mysql --version`
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/10.png)
 
 ---
 
@@ -112,13 +116,13 @@ Launch a private MySQL database accessible only from the application EC2 securit
 
 #### Screenshot 11 — RDS instance summary showing Publicly accessible: No
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/11.png)
 
 ---
 
 #### Screenshot 12 — Connectivity & security section showing the VPC and attached security group
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/12.png)
 
 ---
 
@@ -132,7 +136,7 @@ Download EpicBook and populate bookstore with the schema, authors, and books req
 
 #### Screenshot 13 — Terminal showing successful `SHOW TABLES;` output with tables listed
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/13.png)
 
 ---
 
@@ -146,19 +150,19 @@ Run EpicBook on port 8080 and connect its Sequelize models to bookstore in RDS.
 
 #### Screenshot 14 — Terminal showing the repository cloned and the `ls` output
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/14.png)
 
 ---
 
 #### Screenshot 15 — Terminal showing EpicBook running, or ss -tulpn output showing port 8080 listening
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/15.png)
 
 ---
 
 #### Screenshot 16 — `curl` output proving the backend responds; a 200, 301, or 404 response is acceptable if the service responds
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/16.png)
 
 ---
 
@@ -172,13 +176,13 @@ Expose EpicBook through Nginx on port 80 and keep its Node.js process running af
 
 #### Screenshot 17 — `nginx -t` success output
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/17.png)
 
 ---
 
 #### Screenshot 18 — Nginx configuration snippet showing location / forwarding requests to http://127.0.0.1:8080
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/18.png)
 
 ---
 
@@ -192,19 +196,19 @@ Verify the public application and its use of the imported RDS data.
 
 #### Screenshot 19 — Browser showing the EpicBook application loaded with the public IP visible
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/19.png)
 
 ---
 
 #### Screenshot 20 — Terminal showing a successful HTTP request to EpicBook through the public Nginx endpoint using curl -i http://<EC2_PUBLIC_IP>/
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/20.png)
 
 ---
 
 #### Screenshot 21 — Terminal showing the successful database connectivity test using `SELECT 1;` or similar
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/21.png)
 
 ---
 
@@ -230,15 +234,13 @@ Add the credit note for your track, replace `YOUR-GITHUB-USERNAME` with your Git
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-`Add your URL here`
+https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-aws-devops-ugcPost-7519802841037881344-zzg0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
 
 ---
 
 #### Screenshot 22 — Published LinkedIn post showing your caption, application URL, and live EpicBook screenshot
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%204/ss.png)
 
 > **Privacy Note:** Do not expose passwords, private keys, `.env` values, database credentials, or sensitive AWS account information.
 

@@ -80,7 +80,7 @@ Review your budget and notification settings, then create the budget.
 
 #### Screenshot 1 — AWS Budget setup page showing the budget name, budget amount, and alert thresholds
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%201/1.png)
 
 ### Notes
 
@@ -88,7 +88,7 @@ Answer the following in your own words:
 
 **1. Why is it important to set up budget alerts when using an AWS account?**
 
-Write your answer here.
+Beacause its notify when its exceeding, and it helps to manage the cost effeciently.
 
 ---
 
@@ -104,7 +104,7 @@ Go to the DMI Leaderboard, find your name, select **Share your progress**, and c
 
 #### Screenshot 2 — Published WhatsApp Status showing the automatically generated DMI Leaderboard rank and personal progress link
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%201/2.png)
 
 > **Privacy Note:** Make sure no private phone numbers, personal messages, or sensitive information are visible in the screenshot.
 

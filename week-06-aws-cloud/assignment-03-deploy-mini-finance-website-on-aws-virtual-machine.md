@@ -20,7 +20,7 @@ Launch an Ubuntu EC2 instance named `Mini-Finance-Web-EC2` in a public subnet wi
 
 #### Screenshot 1 — EC2 instance details showing the instance name, Running state, passed status checks, and public IPv4 address
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%203/1.png)
 
 ---
 
@@ -34,7 +34,7 @@ Configure the attached security group to allow SSH on port 22 from your IP addre
 
 #### Screenshot 2 — Attached security group’s inbound rules showing SSH on port 22 restricted to your IP address and HTTP on port 80 allowed from 0.0.0.0/0
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%203/2.png)
 
 ---
 
@@ -48,7 +48,7 @@ Connect to your Ubuntu EC2 instance using SSH and confirm that you are logged in
 
 #### Screenshot 3 — Terminal showing a successful SSH connection to the EC2 instance, with the Ubuntu user prompt visible
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%203/3.png)
 
 ---
 
@@ -62,7 +62,7 @@ Install Nginx and Git. Start Nginx, enable it to start after reboot, and verify 
 
 #### Screenshot 4 — Terminal showing Nginx is active and enabled, the installed Nginx and Git versions, and a successful local HTTP response
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%203/4.png)
 
 ---
 
@@ -76,7 +76,7 @@ Clone `https://github.com/pravinmishraaws/mini_finance.git` into your home direc
 
 #### Screenshot 5 — Terminal showing the successful repository clone and the website files listed inside ~/mini_finance
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%203/5.png)
 
 ---
 
@@ -90,7 +90,7 @@ Replace the default content in `/var/www/html/` with the Mini Finance website fi
 
 #### Screenshot 6 — Terminal showing the output of `ls -la /var/www/html/`, with the deployed website files, ownership, and permissions visible
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%203/6.png)
 
 ---
 
@@ -104,15 +104,15 @@ Verify the Nginx configuration, restart the service, and test the website locall
 
 #### Screenshot 7 — Browser showing the Mini Finance website loaded successfully, with the EC2 public IP URL visible in the address bar
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%203/7.png)
 
 ---
 
 #### Public IP URL
 
-Paste your complete website URL using the format `http://<EC2_PUBLIC_IP>`:
+Paste your complete website URL using the format :
 
-`Add your URL here`
+http://52.66.13.118
 
 ---
 
@@ -137,16 +137,14 @@ Add the credit note for your track, replace `YOUR-GITHUB-USERNAME` with your Git
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-aws-devops-ugcPost-7519792830454771712-rKgx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
 
-`Add your URL here`
 
 ---
 
 #### Screenshot 8 — Published LinkedIn post showing your caption, website URL, and live Mini Finance website screenshot
 
-Add your screenshot here.
-
+![Week 06–aws-cloud](screenshots/Assignment%203/ss.png)
 ---
 
 # Submission Instructions
