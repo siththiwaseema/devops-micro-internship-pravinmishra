@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/1.png)
 
 ---
 
@@ -28,7 +28,32 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+Product Owner (PO): Prioritized visible UI improvements on the Gotto Job project (text updates, spacing, small labels).
+
+
+Scrum Master (SM): Ensured process by creating the sprint in Jira, tracking Daily Scrum, and updating sub-tasks.
+
+
+Dev Lead: Built and edited UI elements (footer, labels, spacing, and color adjustments).
+
+
+DevOps Lead: Shipped the changes to EC2 and verified live updates.
+
+
+What I did:
+Decided to work in Solo mode, performing all Scrum roles.
+
+
+Opened Jira Cloud and created / accessed the Gotto Job project.
+
+
+Documented responsibilities and roles in Jira notes.
+What I learned:
+Scrum is about roles and accountability, not just the tool.
+
+
+Even in Solo mode, defining roles helps structure workflow, maintain clarity, and track end-to-end delivery.
+
 
 ---
 
@@ -42,7 +67,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/2.png)
 
 ---
 
@@ -56,7 +81,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/3.png)
 
 ---
 
@@ -70,13 +95,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/4.png)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/5.png)
 
 ---
 
@@ -90,7 +115,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/6.png)
 
 ---
 
@@ -98,7 +123,39 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+Reviewed each story in the backlog and confirmed Story Points (1, 2, or 3) were set:
+
+
+Hero tagline clarity – 1 pt (small UI text change, low effort)
+
+
+Primary CTA color – 1 pt (simple color adjustment, low effort)
+
+
+Job card typography – 2 pts (requires consistent styling across multiple cards)
+
+
+REMOTE badge – 2 pts (adds UI pill across cards, medium effort)
+
+
+Posted on <date> text – 1 pt (static text, minimal effort)
+
+
+Advanced search labels – 2 pts (clarifying multiple fields, moderate effort)
+
+
+Job detail Apply Now CTA – 1 pt (minor UI adjustment)
+
+
+Footer trust links – 1 pt (add links to footer, minimal effort)
+Noted debates (even in Solo mode):
+
+
+Considered whether Job card typography should be 1 or 2 points; decided 2 due to multiple listings to update.
+
+
+Verified that Story Points were visible in backlog and correctly aligned with the Epic.
+
 
 ---
 
@@ -112,13 +169,13 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/7.png)
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/8.png)
 
 ---
 
@@ -132,7 +189,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/9.png)
 
 ---
 
@@ -146,19 +203,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/10.png)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/11.png)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/12.png)
 
 ---
 
@@ -172,7 +229,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/13.png)
 
 ---
 
@@ -186,15 +243,15 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-devops-scrum-ugcPost-7519731757651255296-2gkj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io
+
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![Week 05–devops-lifecycle](screenshots/Assignment%2004/ss.png)
 
 ---
 
