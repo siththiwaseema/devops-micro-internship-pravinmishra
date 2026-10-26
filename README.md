@@ -82,32 +82,32 @@ Week 03 → Linux & Bash for DevOps
 Week 04 → Git & GitHub
 [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/)
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+Week 05 → DevOps Lifecycle & Agile
+[![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/)
 
-<!-- Week 06 → AWS Cloud -->
-<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+Week 06 → AWS Cloud
+[![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/)
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+Week 07 → Azure Cloud
+[![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/)
 
-<!-- Week 08 → Terraform -->
-<!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
+Week 08 → Terraform
+[![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/)
 
-<!-- Week 09 → Ansible -->
-<!-- [![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/) -->
+Week 09 → Ansible
+[![Week 09 – Ansible](./badges/week-09.svg)](./week-09-ansible/)
 
-<!-- Week 10 → Azure DevOps CI/CD -->
-<!-- [![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/) -->
+Week 10 → Azure DevOps CI/CD
+[![Week 10 – CI/CD](./badges/week-10.svg)](./week-10-azure-devops/)
 
-<!-- Week 11 → Docker -->
-<!-- [![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/) -->
+Week 11 → Docker
+[![Week 11 – Docker](./badges/week-11.svg)](./week-11-docker/)
 
-<!-- Week 12 → Kubernetes -->
-<!-- [![Week 12 – K8s](./badges/week-12.svg)](./week-12-kubernetes/) -->
+Week 12 → Kubernetes
+[![Week 12 – K8s](./badges/week-12.svg)](./week-12-kubernetes/)
 
-<!-- Week 13 → Final Project / Capstone -->
-<!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
+Week 13 → Final Project / Capstone -->
+[![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/)
 
 
 
@@ -135,15 +135,15 @@ Week 04 → Git & GitHub
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_1a1a2e-16213e-dmibypravinmishra-ugcPost-7509176782521106432-2Cmj/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/why-hooks-and-permissions-are-important-for-safety-771c50230df3?sharedUserId=wassimasiththy
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-siththiwaseema-devops-share-7509722011431223296-Td46/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/linux-article-1-6fa25ae0c199 |
 | 04 | Git & GitHub | ✅ Completed |✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-git-github-share-7510669498052431872-KG6U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/two-gates-before-a-pull-request-a-git-hook-and-an-ai-reviewer-3a29a8c1cfcc?postPublishedType=initial |
-| 05 | DevOps Lifecycle & Agile | In Progress | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmibypravinmishra-aws-devops-ugcPost-7519792830454771712-rKgx/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7519792831599923200&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/from-zero-to-live-my-first-week-learning-jira-scrum-and-end-to-end-devops-4cea52f77b19?sharedUserId=wassimasiththy |
+| 06 | AWS Cloud | ✅ Completed | ✅ Completed | https://www.linkedin.com/feed/update/urn:li:activity:7431972364327825409 | https://medium.com/@wassimasiththy/building-for-resilience-deploying-a-self-healing-2-tier-architecture-on-aws-%EF%B8%8F-e63d026b5b0d?sharedUserId=wassimasiththy |
+| 07 | Azure Cloud | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_azuredevops-cicd-reactjs-ugcPost-7449466234909167616-qaCx/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7449466236050231296&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/overcoming-regional-constraints-my-journey-deploying-epicbook-on-azure-f48f6ea715ad?sharedUserId=wassimasiththy |
+| 08 | Terraform | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_learningjourney-womenintech-devopsengineer-ugcPost-7443465069344190465-fXAb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/building-a-production-ready-three-tier-aws-architecture-with-terraform-8c41266fcb22?sharedUserId=wassimasiththy |
+| 09 | Ansible | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-ansible-automation-share-7455354496718770177-D7xw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/automating-static-website-deployment-with-ansible-9204a944b61d?sharedUserId=wassimasiththy |
+| 10 | Azure DevOps (CI/CD) | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_siththiwaseema-azure-cloudcomputing-ugcPost-7435888301892579328-DqRU/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/from-code-to-cloud-my-devops-deployment-journey-with-the-epicbook-ccdf54465ba0?sharedUserId=wassimasiththy |
+| 11 | Docker | ✅ Completed | ✅ Completed |https://www.linkedin.com/posts/siththi-waseema-62a0b0187_siththiwaseema-devops-opentowork-ugcPost-7495030723616153600-hdID/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io  | https://medium.com/@wassimasiththy/docker-volume-network-container-setup-making-containers-talk-and-data-persist-77fdca851ebf?sharedUserId=wassimasiththy |
+| 12 | Kubernetes | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_dmi-devops-docker-ugcPost-7471271407084105728-niBA/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/kubernetes-orchestration-with-kind-from-containers-to-clusters-2206ffd38391?sharedUserId=wassimasiththy |
+| 13 | Final Project | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/siththi-waseema-62a0b0187_devops-kubernetes-microservices-ugcPost-7461402924997484544-fGo3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACv5boIBHr4DjAudB4kGRvqYrehYIp1o_Io | https://medium.com/@wassimasiththy/just-built-my-first-agentic-devops-skill-15f401d68c58?sharedUserId=wassimasiththy |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
@@ -154,7 +154,7 @@ Week 04 → Git & GitHub
 
 *Awarded upon completing Week 13 — Final Project.*
 
-<!-- Drop your certificate image here -->
+![alt text](<A.H.Siththi Waseema.png>)
 
 ---
 
