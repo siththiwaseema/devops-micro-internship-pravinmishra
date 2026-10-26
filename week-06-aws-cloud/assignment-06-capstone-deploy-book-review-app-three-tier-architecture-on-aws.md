@@ -20,7 +20,7 @@ Create an architecture diagram showing the custom VPC (10.0.0.0/16), the six sub
 
 #### Diagram image or link
 
-Add your diagram image or link here.
+![Week 06–aws-cloud](screenshots/Assignment%206/1.png)
 
 ---
 
@@ -34,13 +34,13 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+AP SOUTH -1
 
 ---
 
 **Services:**
 
-Write your answer here.
+EC2
 
 ---
 
@@ -54,9 +54,7 @@ Confirm the Book Review App loads through the public ALB DNS name.
 
 #### Public ALB DNS
 
-Paste your public ALB DNS name here:
-
-`Add your URL here`
+![Week 06–aws-cloud](screenshots/Assignment%206/2.png)
 
 ---
 
@@ -70,37 +68,37 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%206/3.png)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%206/4.png)
 
 ---
 
 #### Public ALB
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%206/5.png)
 
 ---
 
 #### Internal ALB
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%206/6.png)
 
 ---
 
 #### RDS + Replica
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%206/8.png)
 
 ---
 
 #### App UI proof
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%206/9.png)
 
 ---
 
@@ -112,21 +110,32 @@ Summarize what worked in the final deployment, the issues encountered and how ea
 
 ### Notes
 
-**What worked:**
+Public Connectivity: Established a Public Application Load Balancer (ALB) and associated it with a Public Target Group.
+Environment Setup: Successfully installed necessary software (Node.js, Nginx, PM2) across the instances.
+Internal Routing: Created and configured an Internal ALB to bridge communication between the Web and App tiers.
 
-Write your answer here.
+Issues + Fixes:
 
----
+Issue: Missing Public Target Group.
+Fix: Created capstone-public-tg and registered the Web EC2 instance.
+Issue: Internal Target Group showing "Unused" and "None Associated."
 
-**Issues + fixes:**
+Fix: Identified the missing link between the Internal ALB and the Target Group; added a Listener on Port 80 to the Internal ALB.
+Issue: Security Group Blockages.
+Fix: Updated the App Security Group to allow Port 3001 from the Internal ALB and the Web Security Group to allow Port 80 from the Public ALB.
+Issue: Target Group Mismatch (Web and App instances in the same group).
+Fix: Cleaned up the targets so that only Web EC2 is in the Public group and only App EC2 is in the Internal group.
 
-Write your answer here.
+Tools/Sources Used:
+AWS Management Console: (EC2, VPC, RDS, Target Groups, Load Balancers).
+SSH/Terminal: For server-side configuration.
+Nginx: Used as a Reverse Proxy on the Web Server.
+PM2: Process manager used to keep the Frontend and Backend applications running.
+AWS Documentation: For verifying Load Balancer listener and target group health check configurations.
 
----
+Final Status Note:
+Despite troubleshooting the entire 3-tier flow and resolving multiple configuration issues within the Target Groups and Security Groups, the application failed to load in the browser (likely due to a persistent 504 Gateway Timeout or a specific Nginx routing conflict).
 
-**Tools/sources used:**
-
-Write your answer here.
 
 ---
 
@@ -140,15 +149,12 @@ Publish a LinkedIn post sharing the capstone deployment, including the public AL
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
-
-`Add your URL here`
-
+https://www.linkedin.com/feed/update/urn:li:activity:7431972364327825409
 ---
 
 #### Screenshot of LinkedIn post
 
-Add your screenshot here.
+![Week 06–aws-cloud](screenshots/Assignment%206/ss.png)
 
 ---
 
